@@ -8,7 +8,7 @@ const cors = require('cors')
 const passport = require('./passport');
 const app = express();
 const PORT = 3001;
-// Route requiresssss
+// Route requiressssss
 const route = require('./routes/route');
 
 
